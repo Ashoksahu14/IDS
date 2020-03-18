@@ -1,11 +1,11 @@
 
 ****************Installation and execution instructions
 
-copy networkAnalyzer.tar.gz to whatever directory you want to install the software.
+Copy IDS.tar.gz to whatever directory you want to install the software.
 
-as a root user run following
+As a root user run following
 
-tar -xzvf networkAnalyzer.tar.gz
+tar -xzvf IDS.tar.gz
 
 command to install the software: ./installAnalyzer <path to pip>
 
